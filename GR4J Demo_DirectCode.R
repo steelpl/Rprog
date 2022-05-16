@@ -1,8 +1,9 @@
 # Load required libraries
+library(airGR)
 library(airGRteaching)
 
 # Set working directory
-setwd("c:/Users/z2212104/OneDrive - UNSW/Teaching/2020/CVEN9612/Presentations/GR4J_demo")
+setwd("~/GitHub/Rprog")
 
 # Read in Data
 mod_data <- read.table("hydro_all.csv",sep=",",header=TRUE)
