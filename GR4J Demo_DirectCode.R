@@ -1,5 +1,4 @@
 # Load required libraries
-library(airGR)
 library(airGRteaching)
 
 # Set working directory
